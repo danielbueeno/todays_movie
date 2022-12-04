@@ -1,0 +1,226 @@
+{
+    "action":[
+        {   
+            "name":"Die Hard (1988)", 
+            "cover": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        },
+        {
+            "name":"Aliens (1986)",
+            "cover":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUUFRISEhIYGBgSGh0VHBkYGBgZGBwZHBwZHBwVGBgdIy4lHB4rHxgYNDorLC8xNTU1HCQ7QDs1Py40NjEBDAwMEA8QHBIRGjQhISUxMTQ0NDExNDQ0NDExMT80MTExMTQ0NTQ0MTE0PzUxNDE0NDQxNDQxPTE0NDQxNDExMf/AABEIARgAtAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABAYBAwUCB//EAEMQAAICAQMBBAcBDQcEAwAAAAECABEDBBIhMQUiQVEGEzJhcZGhgQcUI0JSgpKisbLB0fAVU2JydMLhJDM0QxZz8f/EABkBAQEBAQEBAAAAAAAAAAAAAAABAwIEBf/EACIRAQEAAwABAwUBAAAAAAAAAAABAgMREjEyQQQTITOBcf/aAAwDAQACEQMRAD8A+MmIMQEREBFxEoXERHQuLiJAuLiJehcXER0Li4iQLiIgIiIC4uIgeriYiVesGIMSIREQEREBERAREQEREBERAREQEREBERAREQMxAiVWDE2I5VgymipsHyINgy8ajW6LO1ahkIDEqw3KR3dGAvdobSfX3fSmII8YihxLdqsXZ+zUDGF3KhKHe5JbdnFAk01VgoUbDG/ylyj6E4MaOQXwIL4K7my7WamU2xSmFGuT4wKhEu2kfSYtVmGJsYxMii2YMANylyhdXVu6OUNlgWUEHiacuHs5EtQjtt7oL5eQMOZldgrDa7ZFxhlugCKAu4FPiXRxoMWfSthZSgfJuJYt3QKXcrWB3ro0LFGj1O3Fk0GoCZM+zGdihlBKsCM2QsxK7VZmTk0h68beAQo0S64NJ2eVTf6oOR3tuXIUVrbdttgWULsI5HJai9VIOBtI2lxh9vrRjcXbBg1alge7QYllwDvXw1eNgKxEuOg12nfDixag4yPVhDYCsreuYbtygHcMYXqSKq7kfV6fS+szYtO+MDJgpGdu7vGdWBLsSEY4l8+pI4J2gKtEvGrPZz5M5Uoq5CVBUsOHbTsH2n2dhbIaAHCEGacmHs0ICoUmyAGyOL/DqhLUTX4LvA0Op4aqAU2Jae2sejx4w+lZTlXIp4Ymu6SyhGZwyg7ObIu6ZhwJzns/K5LDGiKyAAMylVZsbMFqtw3PqAxPKqq1VCwpES29ltgxNlXfi2j73L7qYMgxP98JjLA2xyEVt8aI4E26hdBjDPi2F1DMh3u1FWyHGaJollXFuBFWzCl6AKbEuek1Gm9dqdr4saucVEKpX1Xq2GRVDhuS7Y7Xgmm5FGRi2kxalMiFfV4kdwAGyhn3uuLuuRubacLMtgcMOOgCqxLscfZx2hnRlQlb3Or7DqCcYAFBrRn3E2QAtEePN7Tw6M4EbAUXKdrMNz8H1ZLoqtdjcVq/GxZ5oK4BECJVYMQYkQiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgZBiBEKwYgxCEREBERAREQEREBERAREQEREBERAREQEREDImJkTEKGIMQhERAREQEREBERAREQEREBERAREQEREBERAyJiZEQrBiZM3aPFudF/KIEsnbxzbyde9ZocmEhcuNkYgMAwKkqeho+HBkWfQvurYB6zTuPyDj/QZh/GfPZcsfG8TDLynSSNPpHcOyIzDGu5iBYVem4+QkeWv0OW8Pafv0rfvLGOPbxbeTqqRETlSbThbYH8CxX7QAT+8JrAl3y9jD+zUeu8MrH5qn8prr13PvPhns2TDnflR4mTMTJo36XSvlYY8aFmboqiyeL4A9wm/tDsrPp9vr8L4997d6lbqrq+tWPnOv8Ac+H/AF+m9xb9xpye09W+Rj6x2faTW5i1X1qzx0HynfjPHrnt8uIERE4dJadn5TjOcYmOMHaX2nYDxwW6XyPnPGbSugR2RlXILUkEBgDRKnxFz6V6OacP2RmQjrvf9DY0rnpglabsz3Y3H65m11cx8mU29y8VQnoC+BPM6XYOMNnwhhYLqCD4ixxM8ce2RpleS1jUdj50Rcr4XVG6MVYKfgSKnPn1ntHUM79rYnYsiYnIUm1G0rtIHQVPkxmm3XMOcZ6tlzl6CIETFsN4zq+jGLdqtMvnkT94TlGWP0Axbtdp/c279EE/wnev3Rxn7asXp/8AhMC5P7vU5k/SIYfsnzmfSu3NHk+8NT6zGyEZxlG5SLDBlNX76nzWa/UTmTH6a9wJbfQv/tdpf6V/3llSlu9Cf+32l/pX/as41e5pt9qomJlpiZ1o3aYWyj3z67lwj+zVFf8AsI/U/wCJ8i0xpl+M+wNlB7NH/wBn+ye36X2/187671n+Pj2cUxHvmqbdQbZvjNU8efur6GPpFo+50P8Ar9P8W/dacTtLAyO29St8iwRY91zufc5/8/B+d+405nb/AGrm1D3myF9lqt1wLuuJr+Pts537n8cmIiYNX1n0MN6TTYz0zPnxn85P+BK36Zj/AKbs73Y3H65nX9H8+zS9mv5alr+HdB+lyN90nDsTTJ+ScoHw9Ya+lT3X9bxY/tfPJO7IzhMuNz0VgfkQZBmzECSAOpM8mF5lK9mU7LF19OC6Zny43Pq9Wm4MpIDowFqa6i+oPlKNPoGiU59FqNNlUh9IpzISKKjjeh9xu/jKA013z0rHRfxY24hxExjHH/MxPM9DwZavud8ao5P7rFkf5IR/GVY+M6XYnap0xzMqhjlxPh5Nbd9d8cc1XT3zTHLl7XGU7LFr7O7QfUabtHHkdn241yDcxatjgmr6SgGdXsftY6f747m4Z8T4CCarfXe6ckV0nKnWzPy4514ePYS4eg3sdo/6V/3klPnc9G+3BpGylsQyrmxnEylivBKkmxz+LJqykvauzG3GyOK45M8yd2rq8eXIXxYRhUgdwMzix1O5ueZBnF9XU9HpTU+gL2qP7Mq+Rlr9WfPZKGrPqji8N4b6ETXVt8OstuqbOd+EZjZmIiYtlp+5z/5+D879xpXtYO8fjJno/wBrHS58eoChtl90mrtSvXw6z3252lhzlDh0q4Nt3tdn3XVXu6VR6ec17PDny45fPvw5EREydr2uTb2boyP75/pUn/dTyBk0bjo6F/0tp/jKZk7aY6bDpQoAxO77r5O+uK8Kqbe2+321OPTY2QL97JssG93QAkVx0npu2XDjzzVZn5OHOn6PgHUYb/LX9onMm7TZyjK68FTYmOFkylrfKW42R9T1K1qO1z54X/2z5Q/Uy6dpemoyY8gTAiZc67cmQFiWHFgKeFuualKM23545SSMNGGWPfJ7TpEIOInmel4bqZiDEIREQERECRo9K2V1xpt3OaG50RftZyFH2mdnV+h+sxKzPhU7ArEJlw5GAYqqnZjdm5LrXHN30Blel2f0zAyajJjXIjZsemxgqwVh6g499kHowRh9vMCrZOzcoRMnqyVdTkBUhqRWKszBSSlMD7VSb2X6N6jUI2XCuMovtFs+BCvIFsruCBZAsiuZcR90PBeT8Dlp/WHaGVQS+XUZACy95KGbqp/K4PEpfY/aa4cWtxMpJ1WJcakVQIyY3s34UhgRtV2blxsyNjNqFY7SMigMEYHehK9HTx43AHmaG0zjdaMPVkBrBG0ngBvI8eMvh+6AAAEXMncdTtYC2Okw4Ebg/ivjLe4EeMzrvT/Hkw6nGMTh8qbb7pDlsGHE7ZeeSDjJBok2PZIuBU9L6O6nIiZUxWmQOytvQcY2RHY2e6A2ROTXW+gMg6nRZMZ2uhU7mSzW0sp2sA3Q0fEGpZ+zvSxMWkXS7cgZcOpxblIA3ZnwujDm6Hq2B/zcTR276SJqNHpNMFyb8G22YgLS49lBVNN4USoIAqzZMCJ/8Q1u7b6jn1rafl8YHrFT1hW91VsBO72eOs5LaPICAcbgsAwBVrKnow45B85eW+6CpxbGwszHTqhbcFJz7WxPmBHs3iYiwLBmzt77oKZcOXHpxnRnVlV2YWA+TE5BYMW9lHF2Sd1+PAfOYiICIiAiIgbE6dIngRCsGIMQhERAREQEREBERAREQEREBERAREQEREBERA2IYhDEOmsxBiHJERAREQEREBERAREQEREBERAREQEREBERA9iJgRCvJiDEIREQEREBERAREQEREBERAREQEREBERAREQPQiYEQrBiDEIREQEREBERAREQEREBERAREQEREBERAREQMiIEQqTotMMjMtkECx8bA5+cnf2StqN55sHgdfd7pF7MJUu4UsFAsDryy/wAjOlh1ZcnajWG6cCizUALPvhHPy6EBSwLd01yB+Vtub17NU2dzUPh/i6fDbM6hiEbg87X5IumbcvH2yWAw3AIeQBVqO8STfXxtvrAhZey1G3vnvMq9B1Yjp9hb9GR9TowqK4J528GuNwJ/gZ0dSzEp3fYdT1H4q7q+JE1jIxRB6tiVIVgRye6y/LvHrA4k679kUaD+BPK+TBa6/Ez2MYKBlxge15BjStuHyVpLbUMS6jG1pQNleNxJHj5lflAg/wBjc16zz/F8qvx8yPnIuu0Xqtve3buelDoD5++dnc+5j6voGUgsBVlLPH+VpG1GVjsBRrC0V4NhieeD5AwOFOhoNAMgJLEdR08bQD98/Kbs+0g1ha2BrjkHzP2VJODUFTQxHlmY9ApBO4AMeLB2/owIOr0Kot7jfd6jgkk2B8voZIPY45rJ0JHTwC2T+lYmO0HJV7VgWAHJBobmPNH+HnJv31e7biIosp7yjvdWvnn/APYEVOxlYmmYdeoHgSP5fWcSWZdQy2xRiFO72l9nduP43kD85AyaZ6T8FylWdy2Qo5HX3QPbdjqDW8nvMt0OiqzA/btHzkRtIoybNxoAknxFA39nF/Cdc523KTjNqy7gGWi20gi74HU/Sc0sfWq/qzSiqAuiLFX04b6CBtPZC3Qc8MFPA/rxEw/ZCjb3m71+A44Y8/oyZj1RfkI3DXRIHPWuT57R+dPOYuyKBjPdJawymxtIPj8TAgYezg2Ncm4941QHQ7gAfhVn7JnN2aFB7xNKzXXHdrg/OSNHkb1SrsNKw5BXqGJognobA+yetQzsG/BkWrLQZa723k8+B/bA4qRMJEK3aTMytwaBIB4HS/f0nS0WRULMcgJLDngcizur7B85o7H/ABieisjfIk8/KTdWKTb5bPqwb/cYRH15VgwQg7VVQB1O1iOnkBXFeMltrUBLBl8PHxAb/j5z0T7Fk8m7A/w/Hy+s4+lwNvxuRwzhfjbUR+2BO1uoHOxgT6wEbeSV2BSx+swzAMScvLEWO70Jo9fKdDUHvIb6sx48tj0ZDwVvTk0cC9evtCoGNLlVVTc4sMfGuCXW6/OJ+2esOqUPnLMB6xV+ewk/Xj7RIHbPtJ/kH7WmW7QQ9cIvxNjn3Hj4fKB1TqU3MTkXkUOa611+lH3mQM+p76FW7rJRNfk7hV/L5zbXniUhQBuJFkAAHirrivzpN7OTu0QB7abetWxuq48IEL1l3WUd4k3S8dPnQA+c8nIBtHrQwF8ULNjgceRmzGT+BHPJzce+2r9s6eQdOnRzY873WPseBydRmRmHK13b73gGYkcnyP1jDmUBydp3O7dSeGT3HzNfbHbGBndAo5Kn3dDt/gJI7J7qp47WPw4L/wAv2QNGodCMlZByt0DxwtbQb86+P2ySdSl+2vO82W67lYDknzP2fZM6xNoK+WLKPmVbn9KY0PKKT+QoArwtPG/genj7uQ8Jq1LZNzqLfu88FbBB/rzkPCw2kDMBRIs7TdsSGsnrV/OTNa7DdyQdvI6AWmcgWDyfP4Tkdn5QCUK7t5ArivH+cDpaXOoPfyKSG6kgcdw9Aa/FPy98kJq0pe+or3jjqJr0GmtGVlrcW2jx5UqB+uJr1zEuPL1q/DlRwvPTr4eIgY0GZFBLOOGYbS1A2bDV7q/Wm5tQh6MvX8oDxU3yfcflJGlx8IWA3CyfEgtuJ5/PH0mrGLRB1tAeepNLX1gV0rXHHzB+sTwIhXpXYWFJG7ggHr7j5ywjSqwBYMQf8TUSOB4+H8ZzOykJYhSLNKBxyWPQEsoHTznRyY8ijngWUtVRu8tuV7uQ0TRhGrZ+Eyp3io28b24tSxPJ55AmvXYNq9wVtYEU3IGzcT187MkafTs27KHVS3UMKIobfZ3eIvrNmXRsbJyJRu6Un8Up03X0/hANplCbl3cDd7TVVNtHXpRX5TRqMQtT4nIqWGN7WVWKnngWT1kh8bBkxM4YbNm5ULKFFrRIbr3fqJr1+lZdnedu8HpcRu1AAJ7x4oCBF7TxKD7lKjkkgC8gIF3xSL8prTBgJP4Q+PgaA55Hd8OJ7zqz+t3lVVG27qokgtwF3eTMSOT8Z4wadVZdmXc9EgFe7feG0ndwTXiPEQJmi0YbHbbjY4O5vN+etcgJ8p51igMqLYHrFXhj7LKCQeb5JPyMh4u0silVpRtAx8g8Cx1568ftm3JkdiCWQEMr3Z6hQAevkBxAn6fSqwR6YdTRZh7XrQxHPAJ2dPAe8xj0qlUJu9ga1ZutL0IavE9JFXV5Pysferjy2gADrfQfWan1jqoopSgAVd0CKFX7hA84Xxtt3ZHDUF4LXfF0a8SfpJeDEDjZlBoKxBDEX3upo3Y9/nOZg0WTuOi3yCOR1vgEX8PnJeTJnVNxRdptif8APfHW/wAbw8hAk6XBubUK1lVfaAGaq2vwaPPRflGfCA2JVJCtv43kcbQwW74Av4dZpxjMjFlKAudx9o82rfy+sxlXMQrNt7gLDrdMtfsECbqNOpTKTuO3fVsxql95/qzOVjXDwQ7BgAeLABAFnp5j6zfq9VlRWVgtPuXjd5UT/XnPXZnZbsoyIwG4baKsR3mKDkCuoPwECVpNNuVGJexRPfYcXiLDrxwX+fuEiag97GpsgO5PeJFqeB1uwK+cmqmUW4fH3l8eOOT0LcGz9B7pHbRuxVg2PuktQYckmzYLX4+HnA2+qpd4LAlCwDMw723HRPe89/8AQmM2EAZQCw2La07daJHj0FTxj9bkXIi7GI2jbRF7w59okV3bM96rBmVcjNsvYxIAa+DsIokV3WZgaoj7IFdEQBEKndmZlRgzfisrAc8lTdWAfGp0dZ2kmRSCaouwq676kd5QgBIJ69aiJUR01ikU5BN8bV2iuKFbPdNia5QALPHHQE1VAcrz8YiQMevVTwxrw4HUkkk93zP0mM+vBA2vtPINqGsH3bBURAN2yyd3FtK2zd5BYLMT18eDPI9IM35OPy9gREo5upzM7M7AWxs0KHymwan/AAL8a5/riIgY++f8C18P68zNWV91d0CvIREDWAYqIgbvvl+O8eP+P5CZOpcii7URX2eURA8ZMrN7RJqZxe9iv2ExEolnWNx+F/UWBrnH/t/UHy6REg3aLXqhZnYtvIJpaugR5gdGb5iSNX2niZVC7wVDA2qgMGUg2ATzz7q3GIgcICIiFf/Z"
+        },
+        {
+            "name":"The Wild Bunch (1969)",
+            "cover":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1886/18864276_so.jpg"
+        },
+        {
+            "name": "Police Story (1985)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMTg1MjU2NjYzNV5BMl5BanBnXkFtZTcwMjMzMzIyMQ@@._V1_.jpg"
+        },
+        {
+            "name":"Aliens (1986)",
+             "cover":"data:image/jpeg;base64,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"
+        }
+    ], 
+    "adventure":[
+        {
+            "name":"The Lion King (1994)",
+            "cover":"https://resizing.flixster.com/-9O860xiuHUyNtotR_JtUrGqU3I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiZWI5MTcwLWE0ZTctNGQyNy05NWJlLTM3MzMxMTliZDlhNS53ZWJw"
+        },
+        {
+            "name":"Gladiator (2000)",
+            "cover":"https://resizing.flixster.com/5oy0Op0onezDoCSnE9zTY6oz5KU=/206x305/v2/https://flxt.tmsimg.com/assets/p24674_p_v8_ae.jpg"
+        },
+        {
+            "name":"Back to the Future (1985)",
+            "cover":"https://i.ytimg.com/vi/UpEbGV-mjq0/movieposter.jpg"
+        },
+        {
+            "name":"Spirited Away (2001)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+
+        },
+        {
+            "name":"Interstellar (2014)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+        }
+    ],
+    "comedy":[
+        {
+            "name":"Best in Show (2000)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMTQ5OTc0NDU1MF5BMl5BanBnXkFtZTYwNzk1OTI3._V1_.jpg"
+        },
+        {
+            "name": "In The Loop (2009)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMTU2NzQxNzA1OF5BMl5BanBnXkFtZTcwNzQ0NDk0Mg@@._V1_.jpg"
+        },
+        {
+            "name":"Bridesmaids (2011)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_.jpg"
+        },
+        {
+            "name":"Step Brothers (2008)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BODViZDg3ZjYtMzhiYS00YTVkLTk4MzktYWUxMTlkYjc1NjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+        },
+        {
+            "name":"Idiocracy (2006)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BODAxOGIzZDctZTI4OC00MjZjLWE5NzQtYzEyNzM5YjBhNDgxXkEyXkFqcGdeQXVyMDAwMDAwNA@@._V1_.jpg"
+        }
+    ],
+    "drama":[
+        {
+            "name":"The Shawshank Redemption (1994)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "name":"The Godfather (1972)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+        },
+        {
+            "name":"Schindler's List (1993)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+        },
+        {
+            "name":"One Flew Over the Cuckoo's Nest (1975)",
+            "cover":"https://upload.wikimedia.org/wikipedia/en/2/26/One_Flew_Over_the_Cuckoo%27s_Nest_poster.jpg"
+
+        },
+        {
+            "name":"Pulp Fiction (1994)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        }
+    ],
+    "fantasy":[
+        {
+            "name":"The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+        },
+        {
+            "name":"King Kong (1933)",
+            "cover":"https://upload.wikimedia.org/wikipedia/commons/3/30/King_Kong_1933_Promotional_Image.png"
+        },
+        {
+            "name": "Onward (2020)",
+            "cover":"https://lumiere-a.akamaihd.net/v1/images/p_onward_19732_09862641.jpeg"
+        },
+        {
+            "name": "Ugetsu Monogatari (1953)",
+            "cover":"https://upload.wikimedia.org/wikipedia/commons/7/77/Ugetsu_monogatari_poster.jpg"
+        },
+        {
+            "name":"Spirited Away (2001)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+        }
+    ],
+    "horror":[
+        {
+            "name":"The Exorcist (1973)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "name":"Psycho (1960)", 
+            "cover":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/1200px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg"
+        },
+        {
+            "name":"The Ring (1998)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMTc5MDM0NTc5Ml5BMl5BanBnXkFtZTYwMzk3NDk5._V1_.jpg"
+        },
+        {
+            "name":"Dont Look Now (1973)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BNDZmYzJmMDQtM2NkNi00NjU0LTlmZGItNDFjZjVkZjhmNDcyXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_.jpg"
+        },
+        {
+            "name":"Halloween (1978)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+        }
+    ],
+    "musicals":[
+        {
+            "name":"Cabaret (1972)",
+            "cover":"https://images.moviesanywhere.com/77dc94dcd2a0896f9f92d7c33d88709a/8ba7ac06-930d-4cd8-afe3-62a5a30c369d.jpg"
+        },
+        {
+            "name":"Singin' in the Rain (1952)", 
+            "cover":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Singin%27_in_the_Rain_%281952_poster%29.jpg"
+        },
+        {
+            "name":"West Side Story (2021)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMzQ5ZDZhZDItZTNmZi00MWQ0LWJlNDUtZTE4ZWJmODNlM2Y3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg"
+        },
+        {
+            "name":"The Wizard of Oz (1939)", 
+            "cover":"https://upload.wikimedia.org/wikipedia/commons/6/69/Wizard_of_oz_movie_poster.jpg"
+        },
+        {
+            "name":"An American in Paris (1951)",
+            "cover":"https://m.media-amazon.com/images/M/MV5BMzFkNGM0YTUtZjY5Ny00NzBkLWE1NTAtYzUxNjUyZmJlODMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg"
+        }
+    ],
+    "mystery":[
+        {
+            "name":"Coco (2017)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg"
+        },
+        {
+            "name":"Rear Window (1954)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+        },
+        {
+            "name":"Apocalypse Now (1979)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+        },
+        {
+            "name":"The Usual Suspects (1995)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "name":"The Prestige (2006)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg"
+        }
+    ],
+    "romance":[
+        {
+            "name":"The Notebook (2004)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_.jpg"
+        },
+        {
+            "name":"Love Jones (1997)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BOGEzMmFlMmYtNDU2NS00YWEzLTg5ZDktZGI4MjAxNTVkNjc1XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg"
+        },
+        {
+            "name":"Casablanca (1942)", 
+            "cover":"https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg"
+        },
+        {
+            "name":"Pride & Prejudice (2005)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg"
+        },
+        {
+            "name":"In the Mood for Love (2000)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BYWVjNjMwZTgtMGYyYy00NmVhLWE1NDItMzFhMmJkYTNjYWIwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+        }
+    ],
+    "science fiction":[
+        {
+            "name":"Silent Running (1972)", 
+            "cover":"https://i.pinimg.com/originals/c6/70/b4/c670b4122167bb50d31056edb16f2708.jpg"
+        },
+        {
+            "name":"High Life (2019)", 
+            "cover":"https://i0.wp.com/cinematologia.com.br/cine/wp-content/uploads/2019/06/MV5BYzQ5YzRkZjgtZjdjNi00YzY4LWJlZDMtZTZjNjQ1OWNiYWE2XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_.jpg?fit=980%2C652&ssl=1"
+        },
+        {
+            "name":"Snowpiercer (2013)", 
+            "cover":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Snowpiercer_poster.jpg/220px-Snowpiercer_poster.jpg"
+        },
+        {
+            "name":"District 9 (2009)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BYmQ5MzFjYWMtMTMwNC00ZGU5LWI3YTQtYzhkMGExNGFlY2Q0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
+        },
+        {
+            "name": "The Abyss (1989)", 
+            "cover":"https://m.media-amazon.com/images/M/MV5BYmU4NmUxZjEtYjY0OC00ZDAwLTg0MGQtMDRkNDk5NWQ0OTQ5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg"
+        }
+    ] 
+}
+
+

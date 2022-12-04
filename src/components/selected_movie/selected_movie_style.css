@@ -1,0 +1,16 @@
+.selected-movie{
+    margin-top: 15vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.movie-cover{
+    width: 150px;
+    height: 200px;
+}
+.movie-cover-container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}

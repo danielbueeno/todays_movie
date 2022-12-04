@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import CategoryRow from "./components/category_row/category_row";
+import Header from "./components/header/header";
+import SelectedMovie from "./components/selected_movie/selected_movie";
 
 function App() {
+  const data = require("./categories.json");
+
+  const [movieName, setMovieName] = useState("");
+  const [coverSrc, setCoverSrc] = useState();
+
+  const categorySelection=e=>{
+    const movie = data[e][Math.floor(Math.random()*4)];
+    setMovieName(movie.name);
+    setCoverSrc(movie.cover);
+  }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Header/>
+     <CategoryRow onSelectCategory={categorySelection}/>
+     <SelectedMovie movieName={movieName} imageScr={coverSrc} />
     </div>
   );
 }
